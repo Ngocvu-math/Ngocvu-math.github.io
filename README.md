@@ -1,2 +1,2 @@
-# WorldQuant - Ngoc's Blog
+# Applied Mathematics - Ngoc's Blog
 theme:jekyll-theme-Modernist
