@@ -1,2 +1,2 @@
-# Applied Mathematics - Ngoc's Blog
+# Applied Mathematics - Ngoc's blog
 theme:jekyll-theme-Modernist
